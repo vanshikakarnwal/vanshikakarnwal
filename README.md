@@ -13,15 +13,15 @@
 
 ### 👩‍🔬 About Me
 
-I'm a data scientist with a background in **clinical cardiovascular research**, currently completing my **MSc in Data Science & AI at the University of Liverpool**.
+I am a data scientist with a background in **clinical research**, currently completing my **MSc in Data Science & AI at the University of Liverpool**.
 
-My work sits at the intersection of **healthcare data, machine learning, and statistical analysis** — I don't just build models, I understand the clinical context behind the data.
+My work sits at the intersection of **healthcare data, machine learning, and statistical analysis** - I don't just build models, I understand the clinical context behind the data.
 
-- 🫀 **Published researcher** — co-authored peer-reviewed paper in the *Egyptian Heart Journal* (2025) on epicardial adipose tissue in T1DM
-- 🏥 **Clinical data experience** — analysed n=2,000 structured patient datasets (CT angiography, SPSS, GCP-certified)
-- 🎤 **2× conference presenter** — oral presentations at AHSCON 2025 and RSSDI 2025
-- 🌍 **LSHTM GH2.ai member** — AI in Global Health research group, London School of Hygiene & Tropical Medicine
-- 🔬 Currently volunteering as an **R Analyst** on a StatsDirect replication project
+- 🫀 **Published researcher** - co-authored peer-reviewed paper in the *Egyptian Heart Journal* (2025) on epicardial adipose tissue in T1DM
+- 🏥 **Clinical data experience** - managed n=2,000+ structured patient datasets (CT angiography, SPSS, GCP-certified)
+- 🎤 **Conference presenter** - oral presentations at AHSCON 2025 and RSSDI 2025
+- 🌍 **LSHTM GH2.ai member** - AI in Global Health research group, London School of Hygiene & Tropical Medicine
+- 🔬 Currently volunteering as an **R Analyst** at Civic Health Innovation Labs (CHIL), University of Liverpool
 
 ---
 
