@@ -56,9 +56,9 @@ My work sits at the intersection of **healthcare data, machine learning, and sta
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 📊 [Customer Sign-Up Analysis](https://github.com/vanshikakarnwal/customer-signup-analysis) | Data quality audit and EDA on SaaS customer sign-up data — cleaning, standardisation, and acquisition trend analysis | Python, Pandas, Matplotlib, Seaborn |
-| 🛒 [Green Cart Sales Insights](https://github.com/vanshikakarnwal/green-cart-sales-insights) | Multi-source data merge and feature engineering for e-commerce sales — revenue trends, delivery performance, and customer segmentation | Python, Pandas, Matplotlib, Seaborn, Scikit-learn |
-| 📺 [StreamWorks Churn Prediction](https://github.com/vanshikakarnwal/streamworks-churn-prediction) | Statistical hypothesis testing and predictive modelling for subscriber churn — logistic and linear regression with honest model evaluation | Python, Pandas, Scikit-learn, SciPy |
+| 📊 [Customer Sign-Up Analysis](https://github.com/vanshikakarnwal/customer-signup-analysis) | Data quality audit and EDA on SaaS customer sign-up data - cleaning, standardisation, and acquisition trend analysis | Python, Pandas, Matplotlib, Seaborn |
+| 🛒 [Green Cart Sales Insights](https://github.com/vanshikakarnwal/green-cart-sales-insights) | Multi-source data merge and feature engineering for e-commerce sales - revenue trends, delivery performance, and customer segmentation | Python, Pandas, Matplotlib, Seaborn, Scikit-learn |
+| 📺 [StreamWorks Churn Prediction](https://github.com/vanshikakarnwal/streamworks-churn-prediction) | Statistical hypothesis testing and predictive modelling for subscriber churn - logistic and linear regression with honest model evaluation | Python, Pandas, Scikit-learn, SciPy |
 
 ---
 
