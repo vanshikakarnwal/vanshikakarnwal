@@ -53,11 +53,12 @@ My work sits at the intersection of **healthcare data, machine learning, and sta
 
 ### 📂 Featured Projects
 
+
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🫀 [CVD Risk EDA](https://github.com/vanshikakarnwal/clinical-eda-cvd) | Exploratory analysis of cardiovascular risk factors from clinical data — linked to my published research | Python, Pandas, Seaborn |
-| 🤖 [CVD Risk ML Model](https://github.com/vanshikakarnwal/cvd-risk-ml-model) | End-to-end ML pipeline predicting cardiovascular risk — deployed as interactive app | Scikit-learn, XGBoost, Streamlit |
-| 📊 [Data Analyst Projects](https://github.com/vanshikakarnwal/data-analyst-projects) | Collection of data analysis projects: cleaning, EDA, visualisation, and modelling | Python, Pandas, Matplotlib, Tableau |
+| 📊 [Customer Sign-Up Analysis](https://github.com/vanshikakarnwal/customer-signup-analysis) | Data quality audit and EDA on SaaS customer sign-up data — cleaning, standardisation, and acquisition trend analysis | Python, Pandas, Matplotlib, Seaborn |
+| 🛒 [Green Cart Sales Insights](https://github.com/vanshikakarnwal/green-cart-sales-insights) | Multi-source data merge and feature engineering for e-commerce sales — revenue trends, delivery performance, and customer segmentation | Python, Pandas, Matplotlib, Seaborn, Scikit-learn |
+| 📺 [StreamWorks Churn Prediction](https://github.com/vanshikakarnwal/streamworks-churn-prediction) | Statistical hypothesis testing and predictive modelling for subscriber churn — logistic and linear regression with honest model evaluation | Python, Pandas, Scikit-learn, SciPy |
 
 ---
 
