@@ -64,7 +64,7 @@ My work sits at the intersection of **healthcare data, machine learning, and sta
 ### 📄 Publication
 
 > **Epicardial adipose tissue in type 1 diabetes mellitus: a systematic review and meta-analysis**  
-> Sooragonda, B.G., **Karnwal, V.**, Gunaseelan, V. et al. — *Egyptian Heart Journal*, 77, 71 (2025)  
+> Sooragonda, B.G., **Karnwal, V.**, Gunaseelan, V. et al. - *Egyptian Heart Journal*, 77, 71 (2025)  
 > [Read the paper →](https://doi.org/10.1186/s43044-025-00666-8)
 
 ---
